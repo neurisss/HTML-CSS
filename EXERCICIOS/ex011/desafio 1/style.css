@@ -1,0 +1,24 @@
+@charset "UTF-8";
+* {
+    font-family: sans-serif;
+    height: auto;
+    
+}
+
+body {
+    background-image: linear-gradient( to right,  #36362f, #079af5);
+    
+    text-align: center;
+    color: azure;
+    align-items: auto;
+}
+ main {
+    
+    align-self: center;
+    background-color: rgb(0, 0, 0);
+    width: 700px;
+    box-shadow: 5px 5px 10px #b3b29a;
+    padding: 10px;
+    margin: auto;
+    border-radius: 15px;
+ }
