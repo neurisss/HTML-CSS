@@ -13,7 +13,7 @@
 * {
     margin: 0px;
     padding: 0px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
 }
 
 html, body {
@@ -63,6 +63,7 @@ section {
 section.normal {
     background-color: white;
     color: black;
+
 }
 
 section.imagem {
